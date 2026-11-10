@@ -120,6 +120,15 @@ The classification criteria represent manually defined, literature-supported int
 
 The references supporting the selection of KO markers and classification criteria are provided in `references.bib`.
 
+## License
+
+This repository is licensed under the
+[Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
+You are free to share and adapt the material for non-commercial purposes, provided appropriate credit is given.
+
+[![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 ## Contact
 
 For questions, suggestions, or further information regarding this workflow, please contact:
