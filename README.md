@@ -101,3 +101,13 @@ The classification criteria represent manually defined, literature-supported int
 ## References
 
 The references supporting the selection of KO markers and classification criteria are provided in `references.bib`.
+
+## Contact
+
+For questions, suggestions, or further information regarding this workflow, please contact:
+
+**Jhon A. Suescún-Sepúlveda**
+
+University of Salamanca, Spain
+
+Email: [jass94@usal.es](mailto:jass94@usal.es)
