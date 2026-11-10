@@ -1,5 +1,15 @@
 # KEGG-based Substrate Utilization Inference
 
+**A genome-based approach to support substrate selection in bacterial taxonomic characterization.**
+
+**Main purpose:** Supporting the selection of substrates for phenotypic characterization of novel bacterial taxa through the inference of genomic metabolic potential.
+
+![Genome-based predictions](https://img.shields.io/badge/Genome--based-predictions-blue)
+![50 selected substrates](https://img.shields.io/badge/50-Selected%20substrates-green)
+![Taxonomic characterization](https://img.shields.io/badge/Taxonomic-characterization-purple)
+![KEGG Orthology](https://img.shields.io/badge/KEGG-Orthology-orange)
+
+---
 ## Overview
 
 The phenotypic characterization of bacterial strains is an essential component of the description of novel taxa. In particular, substrate utilization profiles provide valuable information for distinguishing closely related bacterial species. However, selecting which substrates should be included in experimental characterization can be challenging, especially when the number of available tests is limited.
