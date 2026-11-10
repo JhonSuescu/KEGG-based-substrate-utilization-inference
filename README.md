@@ -2,10 +2,10 @@
 
 **A genome-based approach to support substrate selection in bacterial taxonomic characterization.**
 
-**Main purpose:** Supporting the selection of substrates for phenotypic characterization of novel bacterial taxa through the inference of genomic metabolic potential.
+**Purpose:** Supporting the selection of substrates for phenotypic characterization of novel bacterial taxa through the inference of genomic metabolic potential.
 
 ![Genome-based predictions](https://img.shields.io/badge/Genome--based-predictions-blue)
-![50 selected substrates](https://img.shields.io/badge/50-Selected%20substrates-green)
+![50 substrates and activities](https://img.shields.io/badge/50-Substrates%20%26%20activities-green)
 ![Taxonomic characterization](https://img.shields.io/badge/Taxonomic-characterization-purple)
 ![KEGG Orthology](https://img.shields.io/badge/KEGG-Orthology-orange)
 
