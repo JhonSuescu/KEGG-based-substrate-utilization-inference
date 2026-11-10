@@ -2,9 +2,17 @@
 
 ## Overview
 
-This repository provides a reproducible workflow for inferring bacterial substrate utilization potential from genomic data based on KEGG Orthology (KO) annotations.
+The phenotypic characterization of bacterial strains is an essential component of the description of novel taxa. In particular, substrate utilization profiles provide valuable information for distinguishing closely related bacterial species. However, selecting which substrates should be included in experimental characterization can be challenging, especially when the number of available tests is limited.
 
-The workflow uses predefined sets of KO markers and evidence-based criteria to assess the genomic potential for utilizing different carbon sources and performing specific hydrolytic activities.
+This repository provides a reproducible workflow to support the selection of substrates for phenotypic characterization based on bacterial genomic data and KEGG Orthology (KO) annotations.
+
+The workflow evaluates the presence of substrate-associated KO markers using predefined, literature-supported criteria to infer the genomic potential of bacterial strains to utilize different carbon sources and perform specific hydrolytic activities.
+
+The current version includes 50 substrates and hydrolytic activities, selected from the broader range of compounds and metabolic activities that can potentially be investigated in bacterial phenotypic characterization.
+
+The resulting classifications provide preliminary genomic evidence that can help guide the selection of substrates for experimental testing, complementing conventional phenotypic characterization during the description of novel bacterial taxa.
+
+This workflow is intended as a complementary tool for taxonomic studies, rather than a replacement for experimental phenotypic characterization.
 
 ## Methodology
 
